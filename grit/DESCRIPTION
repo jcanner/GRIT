@@ -1,0 +1,13 @@
+Package: grit
+Title: A Package to Compare Grit Scores
+Version: 0.0.0.9000
+Authors@R: person("Judith", "Canner", email = "jcanner@csumb.edu", role = c("aut", "cre"))
+Description: Grit scores collected on 52 college-aged latinas in Liberal Studies
+    at CSUMB are analyzed to see how context affects their view of personal "grit".
+    Based on the concept of "grit" coined by Duckworth et al.
+Depends:
+    R (>= 3.3.1)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
